@@ -1,0 +1,87 @@
+
+export const translations = {
+  en: {
+    brand: "Fawzy Industries",
+    tagline: "Precision. Integration. Global Excellence.",
+    hero_title: "Shaping the Future of Global Industry",
+    hero_sub: "Fawzy Integrated Industries stands at the forefront of industrial innovation, delivering high-precision engineering and sustainable manufacturing solutions across continents.",
+    learn_more: "Explore Strategy",
+    contact_us: "Get in Touch",
+    our_services: "Core Capabilities",
+    why_choose_us: "The Industrial Edge",
+    innovative_tech: "Industry 4.0 R&D",
+    global_standards: "Tier-1 Certification",
+    sustainability: "Net-Zero Goals",
+    about_us: "Corporate Profile",
+    about_text: "Since our inception, Fawzy Integrated Industries has redefined industrial standards. We integrate complex engineering systems to provide seamless, scalable, and powerful solutions for a changing world.",
+    stats_title: "Our Impact in Numbers",
+    projects: "Mega Projects",
+    countries: "Global Markets",
+    team: "Expert Engineers",
+    history_title: "Legacy Timeline",
+    values_title: "Our DNA",
+    footer_desc: "The world's leading name in integrated industrial solutions. Engineering excellence since 1988.",
+    developed_by: "Designed & Engineered by",
+    dev_name: "Developer. Mohamed El Killany",
+    rights_reserved: "All Rights Reserved",
+    quick_links: "Quick Navigation",
+    contact_info: "Global Contact HQ",
+    nav: {
+      home: "Home",
+      services: "Capabilities",
+      about: "Legacy",
+      projects: "Cases",
+      contact: "Contact",
+      portfolio: "Portfolio"
+    },
+    form: {
+      name: "Full Name",
+      email: "Corporate Email",
+      subject: "Inquiry Type",
+      message: "Detailed Inquiry",
+      send: "Initiate Consultation"
+    }
+  },
+  ar: {
+    brand: "مجموعة فوزي",
+    tagline: "دقة. تكامل. تميز عالمي.",
+    hero_title: "نصيغ مستقبل الصناعة العالمية",
+    hero_sub: "تقف فوزي للصناعات المتكاملة في طليعة الابتكار الصناعي، حيث تقدم حلولاً هندسية دقيقة وتصنيعاً مستداماً عبر القارات.",
+    learn_more: "استكشف استراتيجيتنا",
+    contact_us: "تواصل معنا",
+    our_services: "القدرات الجوهرية",
+    why_choose_us: "التفوق الصناعي",
+    innovative_tech: "بحث وتطوير Industry 4.0",
+    global_standards: "اعتماد الفئة الأولى",
+    sustainability: "أهداف الحياد الكربوني",
+    about_us: "ملف المجموعة",
+    about_text: "منذ تأسيسنا، أعادت فوزي للصناعات المتكاملة تعريف المعايير الصناعية. نحن ندمج الأنظمة الهندسية المعقدة لتقديم حلول سلسة وقوية وقابلة للتطوير لعالم متغير.",
+    stats_title: "تأثيرنا بالأرقام",
+    projects: "مشاريع عملاقة",
+    countries: "أسواق عالمية",
+    team: "مهندسون خبراء",
+    history_title: "تسلسل الإرث",
+    values_title: "قيمنا الجوهرية",
+    footer_desc: "الاسم الرائد عالمياً في الحلول الصناعية المتكاملة. تميز هندسي منذ عام 1988.",
+    developed_by: "تم تصميمه وتطويره بواسطة",
+    dev_name: "المطور. محمد الكيلاني",
+    rights_reserved: "جميع الحقوق محفوظة",
+    quick_links: "روابط سريعة",
+    contact_info: "مركز الاتصال العالمي",
+    nav: {
+      home: "الرئيسية",
+      services: "قدراتنا",
+      about: "إرثنا",
+      projects: "أعمالنا",
+      contact: "اتصل بنا",
+      portfolio: "بورتفوليو"
+    },
+    form: {
+      name: "الاسم بالكامل",
+      email: "البريد المؤسسي",
+      subject: "نوع الاستفسار",
+      message: "تفاصيل الطلب",
+      send: "بدء الاستشارة"
+    }
+  }
+};
